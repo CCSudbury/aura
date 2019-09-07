@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"IWD'19 Jalandhar",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"DevFest19",
+    "EventImage":"gdgSudburySquare.png",
     "EventDate":{
-        "Date":"31",
-        "Month":"3",
+        "Date":"7",
+        "Month":"9",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "StartTime":"10:00 AM",
+        "EndTime":"04:00 PM"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
+    "EventVenue":"Cliff Fielding Research, Innovation and Engineering Building",
+    "EventVenueMapLink":"https://www.google.com/maps/search/?api=1&query=46.466770%2C-80.974236",
+    "EventWebsite":"https://devfest2019.gdgsudbury.ca/",
+    "EventDescription":"DevFest19 is coming two months early! We'll be updating with more amazing information, so reserve your spot early",
+    "MeetupLink":"https://www.meetup.com/GDG-Sudbury/events/260203093/",
+    "RegistrationLink":"#",
     "FBEventPageURL":"s"
 }
 
