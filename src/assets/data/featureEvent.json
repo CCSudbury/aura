@@ -1,20 +1,20 @@
 {
-    "FeatureEventName":"DevFest19",
+    "FeatureEventName":"Holiday Get together 2019",
     "EventImage":"gdgSudburySquare.png",
     "EventDate":{
-        "Date":"7",
-        "Month":"9",
+        "Date":"16",
+        "Month":"12",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"10:00 AM",
-        "EndTime":"04:00 PM"
+        "StartTime":"7:00 PM",
+        "EndTime":"9:00 PM"
     },
-    "EventVenue":"Cliff Fielding Research, Innovation and Engineering Building",
-    "EventVenueMapLink":"https://www.google.com/maps/search/?api=1&query=46.466770%2C-80.974236",
-    "EventWebsite":"https://devfest2019.gdgsudbury.ca/",
-    "EventDescription":"DevFest19 is coming two months early! We'll be updating with more amazing information, so reserve your spot early",
-    "MeetupLink":"https://www.meetup.com/GDG-Sudbury/events/260203093/",
+    "EventVenue":"First Round in Val Caron is a close community gathering place, Chris and Riley want to keep that alive for years to come.",
+    "EventVenueMapLink":"https://www.google.com/maps/place/First+Round+Sports+Bar+%26+Restaurant/@46.6108365,-81.0111336,17z/data=!3m1!4b1!4m5!3m4!1s0x4d2fa8b6faf2d00b:0x3df14a369b3b08c3!8m2!3d46.6108365!4d-81.0089449?hl=en",
+    "EventWebsite":"https://www.meetup.com/GDG-Sudbury/events/260205054/",
+    "EventDescription":"Join us for an evening of fun, food, drinks, and a stream of Flutter Interact",
+    "MeetupLink":"https://www.meetup.com/GDG-Sudbury/events/260205054/",
     "RegistrationLink":"#",
     "FBEventPageURL":"s"
 }
